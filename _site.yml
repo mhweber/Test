@@ -8,6 +8,8 @@ navbar:
       href: about.html
     - text: "IntroSpatial"
       href: IntroSpatial.html
+    - text: "Interactive Mapping"
+      href: LeafletPlotly.html
 output_dir: docs
 output:
   html_document:
