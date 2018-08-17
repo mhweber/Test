@@ -7,5 +7,5 @@ navbar:
     - text: "About"
       href: about.html
     - text: "IntroSpatial"
-      href: about.html
+      href: IntroSpatial.html
 output_dir: docs
