@@ -9,3 +9,16 @@ navbar:
     - text: "IntroSpatial"
       href: IntroSpatial.html
 output_dir: docs
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+    code_folding: hide
+    toc: yes
+    toc_float:
+      collapsed: no
+    include:
+      in_header: header.html
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
